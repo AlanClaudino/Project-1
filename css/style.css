@@ -221,6 +221,10 @@ section {
 
 /* skills section */
 
+#skills {
+    margin: 2em 0;
+}
+
 #skills .container .box-container {
     display: flex;
     align-items: center;
@@ -244,6 +248,10 @@ section {
 /* Ending of skills section */
 
 /* About me section */
+
+#about-me {
+    margin: 2em 0;
+}
 
 #about-me .container {
     display: flex;
