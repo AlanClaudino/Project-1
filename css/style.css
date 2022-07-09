@@ -165,6 +165,10 @@ section {
 
 /* projects section */
 
+#projects-box {
+    padding: 2em 0;
+}
+
 #arrow {
     width: 3em;
 }
